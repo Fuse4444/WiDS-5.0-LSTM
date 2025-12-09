@@ -35,7 +35,7 @@ Go through this module on Basic of Stock Market by Zerodha Varsity : [Module](ht
 
 You can also watch this playlist, incase you prefer videos over reading : [Youtube](https://youtube.com/playlist?list=PLX2SHiKfualH9XGLv9r1sdKucoGky35J7&si=4d6Z09cz7cmtBa-a)
 
-### **Getting Started**
+### Getting Started
 
 ### **Installation and Setup**
 
