@@ -1,6 +1,6 @@
 # WiDS-5.0-LSTM
 Winter in Data Science - Long Short Term Memory co-mentored by DAN.
-# **Python Basics!**
+# WEEK 1: **Python Basics!**
 
 For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook](https://github.com/Amish462004/Blackoptions-price/blob/main/Week%201-Content/Python_review.ipynb).  
 
@@ -18,7 +18,7 @@ For the first week we will be covering some basic topics:
 * [File Handling (Optional)](#file-handling-optional)
 
 Then we'll go through some data science libraries.
-# Data Science Libraries!
+###  **Data Science Libraries**
 
 Now, we will look at Applications of Python in Data Analysis fields and will cover various python libraries used for this namely :
 * [Numpy](#Numpy)
@@ -27,7 +27,7 @@ Now, we will look at Applications of Python in Data Analysis fields and will cov
 * [Seaborn](#Seaborn)
 * [Scikit-learn](#Scikit-learn)
 
-# Basic of Stock Market!
+### **Basics of Stock Market (Indian focussed)**
 
 Now we will look into the fundamental concepts of the stock market.
 
@@ -35,7 +35,7 @@ Go through this module on Basic of Stock Market by Zerodha Varsity : [Module](ht
 
 You can also watch this playlist, incase you prefer videos over reading : [Youtube](https://youtube.com/playlist?list=PLX2SHiKfualH9XGLv9r1sdKucoGky35J7&si=4d6Z09cz7cmtBa-a)
 
-## **Getting Started**
+### **Getting Started**
 
 ### **Installation and Setup**
 
